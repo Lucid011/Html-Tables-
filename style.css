@@ -1,0 +1,28 @@
+body{
+    background-color: #fee3d8;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'PT Serif', serif;
+}
+table, th, tr, td{
+    border: 1px solid  black;
+    border-collapse: collapse;
+    padding: 20px;
+    margin: 10px;
+    text-transform: capitalize;
+}
+table, tr, td{
+    font-weight: 500;
+}
+a button{
+    background-color: #bfee62;
+    border-radius: 10px;
+    border: 20px;
+    padding: 10px;
+    padding-left: 25px;
+    padding-right: 25px;
+    margin: 10px;
+    font-family: 'Poppins', sans-serif ;
+    font-family: 'PT Serif', serif;
+    font-weight: 900;
+
+}
